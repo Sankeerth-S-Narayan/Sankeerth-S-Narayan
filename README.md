@@ -2,6 +2,7 @@
 
 ## Data Engineer | Analytics Developer 
 
+### I’m a data engineer passionate about building scalable data driven solutions and building workflows and dashboards. I love working with Python, SQL, and cloud technologies to turn raw data into actionable insights.
 
 <!--
 **Sankeerth-S-Narayan/Sankeerth-S-Narayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
