@@ -1,6 +1,6 @@
 # Hiii 👋 I'm Sankeerth
 
-## I’m a data engineer passionate about building scalable data solutions and automating workflows. I love working with Python, SQL, and cloud technologies to turn raw data into actionable insights. 
+## Data Engineer | Analytics Developer 
 
 
 <!--
