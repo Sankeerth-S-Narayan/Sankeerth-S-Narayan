@@ -1,5 +1,8 @@
 # Hiii 👋 I'm Sankeerth
 
+## I’m a data engineer passionate about building scalable data solutions and automating workflows.
+## I love working with Python, SQL, and cloud technologies to turn raw data into actionable insights.
+
 
 <!--
 **Sankeerth-S-Narayan/Sankeerth-S-Narayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
